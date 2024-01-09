@@ -1,0 +1,28 @@
+go 1.21.5
+
+use (
+	./goBases-ejercicio-01
+	./goBases-ejercicio-02
+	./goBases-ejercicio-03
+	./goBases-ejercicio-04
+	./goBases-ejercicio-05
+	./goBases-ejercicio-06
+	./goBases-practica-01
+	./goBases-practica-02
+	./goBases-practica-03
+	./goBases-practica-04
+	./goBases-practica-05
+	./goBases-practica-06
+	./goBases-practica-07
+	./goBases-practica-08
+	./goBases-practica-09
+	./goBases-practica-10
+	./goBases-practica-11
+	./goBases-practica-12
+	./goBases-practica-13
+	./goBases-practica-14
+	./goBases-practica-15
+	./goBases-practica-16
+	./goBases-practica-17
+	./goBases-practica-18
+)

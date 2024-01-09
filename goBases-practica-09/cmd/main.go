@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("Type your salary to calculate your tax discount: ")
 	fmt.Scan(&salary)
 
-	taxResult := taxCalculator(salary)
+	taxResult := tax.taxCalculator(salary)
 
 	if taxResult != salary {
 		fmt.Println(fmt.Sprint("Your salary after discount is: $", taxResult))
